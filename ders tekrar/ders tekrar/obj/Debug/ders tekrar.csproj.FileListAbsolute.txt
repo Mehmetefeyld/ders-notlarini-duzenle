@@ -1,0 +1,8 @@
+C:\Users\MEHMET EFE\source\repos\ders tekrar\ders tekrar\bin\Debug\ders tekrar.exe.config
+C:\Users\MEHMET EFE\source\repos\ders tekrar\ders tekrar\bin\Debug\ders tekrar.exe
+C:\Users\MEHMET EFE\source\repos\ders tekrar\ders tekrar\bin\Debug\ders tekrar.pdb
+C:\Users\MEHMET EFE\source\repos\ders tekrar\ders tekrar\obj\Debug\ders tekrar.csproj.AssemblyReference.cache
+C:\Users\MEHMET EFE\source\repos\ders tekrar\ders tekrar\obj\Debug\ders tekrar.csproj.SuggestedBindingRedirects.cache
+C:\Users\MEHMET EFE\source\repos\ders tekrar\ders tekrar\obj\Debug\ders tekrar.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET EFE\source\repos\ders tekrar\ders tekrar\obj\Debug\ders tekrar.exe
+C:\Users\MEHMET EFE\source\repos\ders tekrar\ders tekrar\obj\Debug\ders tekrar.pdb
